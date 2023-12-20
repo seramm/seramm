@@ -16,4 +16,4 @@ I have worked with C++ to understand the basics of programming. But currently Ja
 Currently:
 - Developing NeoVim config(always)
 - Learning ROS2
-- Linux
+- Learning Rust
