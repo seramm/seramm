@@ -1,15 +1,12 @@
 # Hello stranger!
 I am Sergio, a "Computer Science" student at Spain. As you may already guess this is my GitHub profile.
 
-
-## My machine
-Let's start from the beginning. My personal machine runs only Linux (did I said it runs Arch? _btw i use arch_. In fact I run ArcoLinux, I'm not such a masochist to run ArchLinux).
-
-You'll see that **Lua** is one of the languages that I've worked the most on. That is because I use NeoVim to code when the university does not force me to use other IDE. Nevertheless I don't believe that I have a good knowledge of Lua but I hope I can improve my skills.
-
-
 ## What do I know?
-I have worked with C++ to understand the basics of programming. But currently Java is the language that I'm learning the most. Even though I'm not a mathematician I use a lot LaTeX. But I'm not stopping there. I a now learning quite a lot of Python since I join the Driverless department at UVigo Motorsport. 
+You'll see that **Lua** is one of the languages that I've worked the most on. That is because I use NeoVim to code whenever I'm able to. Nevertheless I don't believe that I have a good knowledge of Lua but I hope I can improve my skills.
+
+I have worked with C++ to understand the basics of programming. But currently Java is the language that I'm learning the most. Even though I'm not a mathematician I know the basics LaTeX. But I'm not stopping there. I'm now learning quite a lot of Python since I joined the Driverless department at UVigo Motorsport. 
+
+My mind can't be bored, that is why I am constantly finding new skills.
 
 ---
 
